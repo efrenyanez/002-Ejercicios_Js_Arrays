@@ -10,7 +10,7 @@
 **Matrícula**: <span style="color:darkgreen;">20230340</span>
 
 ---
-# Manual Técnico: Ejercicios de Lógica en JavaScript
+# Manual Técnico: Ejercicios_Js_Arrays
 
 ## 1. Descripción del Proyecto
 
